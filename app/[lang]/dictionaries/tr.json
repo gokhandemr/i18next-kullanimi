@@ -1,0 +1,10 @@
+{
+  "home": {
+    "title": "Merhaba Dünya",
+    "description": "Lorem Ipsum, kısaca Lipsum, masaüstü yayıncılık ve basın yayın sektöründe kullanılan taklit yazı bloğu olarak tanımlanır."
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "description": "Hakkımızda, kısaca Lipsum, masaüstü yayıncılık ve basın yayın sektöründe kullanılan taklit yazı bloğu olarak tanımlanır."
+  }
+}
