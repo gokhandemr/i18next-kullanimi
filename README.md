@@ -2,7 +2,9 @@
 
 ### 1- Kurulum
 
+```
 npm install next-i18next
+```
 
 ### 2- middleware.ts dosyası
 
